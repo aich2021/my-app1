@@ -1,7 +1,7 @@
 node{
     stage('SCM Checkout'){
         
-        git 'https://github.com/javahometech/my-app'
+        git 'https://github.com/aich2021/my-app1'
     }
 stage('Compile-Package'){
     //Get mvn home path
